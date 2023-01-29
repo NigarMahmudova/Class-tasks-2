@@ -1,0 +1,14 @@
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\bin\Debug\netcoreapp3.1\Academy tasks 7.exe
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\bin\Debug\netcoreapp3.1\Academy tasks 7.deps.json
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\bin\Debug\netcoreapp3.1\Academy tasks 7.runtimeconfig.json
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\bin\Debug\netcoreapp3.1\Academy tasks 7.runtimeconfig.dev.json
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\bin\Debug\netcoreapp3.1\Academy tasks 7.dll
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\bin\Debug\netcoreapp3.1\Academy tasks 7.pdb
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\obj\Debug\netcoreapp3.1\Academy tasks 7.csproj.AssemblyReference.cache
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\obj\Debug\netcoreapp3.1\Academy tasks 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\obj\Debug\netcoreapp3.1\Academy tasks 7.AssemblyInfoInputs.cache
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\obj\Debug\netcoreapp3.1\Academy tasks 7.AssemblyInfo.cs
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\obj\Debug\netcoreapp3.1\Academy tasks 7.csproj.CoreCompileInputs.cache
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\obj\Debug\netcoreapp3.1\Academy tasks 7.dll
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\obj\Debug\netcoreapp3.1\Academy tasks 7.pdb
+C:\Users\nigarem\Desktop\C#\Academy tasks 7\Academy tasks 7\obj\Debug\netcoreapp3.1\Academy tasks 7.genruntimeconfig.cache

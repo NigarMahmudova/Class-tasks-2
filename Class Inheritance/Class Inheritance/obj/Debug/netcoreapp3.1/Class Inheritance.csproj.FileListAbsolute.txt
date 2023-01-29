@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\bin\Debug\netcoreapp3.1\Class Inheritance.exe
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\bin\Debug\netcoreapp3.1\Class Inheritance.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\bin\Debug\netcoreapp3.1\Class Inheritance.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\bin\Debug\netcoreapp3.1\Class Inheritance.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\bin\Debug\netcoreapp3.1\Class Inheritance.dll
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\bin\Debug\netcoreapp3.1\Class Inheritance.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\obj\Debug\netcoreapp3.1\Class Inheritance.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\obj\Debug\netcoreapp3.1\Class Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\obj\Debug\netcoreapp3.1\Class Inheritance.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\obj\Debug\netcoreapp3.1\Class Inheritance.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\obj\Debug\netcoreapp3.1\Class Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\obj\Debug\netcoreapp3.1\Class Inheritance.dll
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\obj\Debug\netcoreapp3.1\Class Inheritance.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\27012023\Class Inheritance\Class Inheritance\obj\Debug\netcoreapp3.1\Class Inheritance.genruntimeconfig.cache

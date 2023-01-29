@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy tasks 7", "Academy tasks 7\Academy tasks 7.csproj", "{6748E53A-E197-46B5-8CE1-FC13A9896AFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academy task varislik", "Academy task varislik\Academy task varislik.csproj", "{13BB0F2A-B53E-4626-9601-C8B9145CF2D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6748E53A-E197-46B5-8CE1-FC13A9896AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6748E53A-E197-46B5-8CE1-FC13A9896AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6748E53A-E197-46B5-8CE1-FC13A9896AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6748E53A-E197-46B5-8CE1-FC13A9896AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13BB0F2A-B53E-4626-9601-C8B9145CF2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BB0F2A-B53E-4626-9601-C8B9145CF2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BB0F2A-B53E-4626-9601-C8B9145CF2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BB0F2A-B53E-4626-9601-C8B9145CF2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {138F68BA-EE51-43DF-A1DE-E2C227A16057}
+	EndGlobalSection
+EndGlobal
